@@ -1,5 +1,4 @@
 # Tools used:
-"""
 purecounter_vanilla.js: Purecounter.js is a native JavaScript counter plugin that animates a number count from zero to
 the desired end number on the screen.
 
@@ -23,4 +22,3 @@ noframework.waypoints.js: Waypoints is a library that makes it easy to execute a
 element.
 
 validate.js: This script is part of the PHP Email Form package. It's used for front-end form validation.
-"""
